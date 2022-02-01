@@ -1,14 +1,13 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
       - Python
+      - Php
       - Design Patterns
 
 - name: Mobile Developer Keywords
   keywords:
       - Android
-      - Reverse Engineering
+      - Flutter
 
 - name: Windows Developer Keywords
   keywords:
